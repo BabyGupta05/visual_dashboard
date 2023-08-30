@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "visual_dashboard",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyGupta05/visual_dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabyGupta05/visual_dashboard/issues"
+  },
+  "homepage": "https://github.com/BabyGupta05/visual_dashboard#readme"
+}
